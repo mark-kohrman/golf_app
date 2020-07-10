@@ -1,0 +1,10 @@
+@golf_balls.map do |golf_ball|
+
+{
+  brand: golf_ball.brand,
+  color: golf_ball.color,
+  dimples: golf_ball.dimples,
+  price: golf_ball.price
+
+  }
+end

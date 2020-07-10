@@ -1,0 +1,2 @@
+class GolfBall < ApplicationRecord
+end
